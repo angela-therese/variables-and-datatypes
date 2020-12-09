@@ -5,6 +5,7 @@ let aboutMe = {
     likesTravel: true,
     favoriteMovies: ["Fargo", "Il Postino", "Amadeus"],
     children: "Luca",
-    favoriteHobbies: ['hula hoops', 'guitar', 'writing', 'coding']
+    favoriteHobbies: ['hula hoops', 'guitar', 'writing', 'coding'],
+    favoriteSongwriter: 'Bob Dylan'
 }
 console.log(aboutMe) 
